@@ -125,7 +125,7 @@ A scalable analytics layer was created inside Snowflake to handle continuous, su
 
 ## 📈 Dashboard Preview
 
-
+<img width="1119" height="626" alt="Screenshot (925)" src="https://github.com/user-attachments/assets/68c273d1-df37-4e76-8f1b-d32f13c1c0e3" />
 
 ---
 ### Dashboard Highlights:
