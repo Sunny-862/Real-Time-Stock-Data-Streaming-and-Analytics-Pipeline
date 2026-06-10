@@ -125,7 +125,7 @@ A scalable analytics layer was created inside Snowflake to handle continuous, su
 
 ## 📈 Dashboard Preview
 
-<img width="2048" height="1152" alt="Real-Time Stock Monitor" src="https://github.com/user-attachments/assets/8303f823-599e-4715-87f0-bc2c9704a85e" />
+<img width="2048" height="1152" alt="Real Time Stock Monitor111111" src="https://github.com/user-attachments/assets/c11a6f18-7a62-45ba-8c6d-28a9d1d56e70" />
 
 ---
 ### Dashboard Highlights:
